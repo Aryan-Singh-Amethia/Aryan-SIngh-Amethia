@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh Amethia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Personal Dev-Portfolio**
+- 🔭 I’m currently Learning to implement SCSS**
 
 - 📫 How to reach me **aryanamethia1998@gmail.com**
 
